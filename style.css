@@ -1,20 +1,25 @@
 a {
   color: black; /* change la couleur du lien */
+  font-size: 1em;
+  text-decoration: none;
+  font-family: "manrope", sans-serif;
 }
 .color {
   color: #A5B4FC;
 }
 
-.urbanist-<uniquifier> {
-  font-family: "Urbanist", sans-serif;
-  font-optical-sizing: auto;
-  font-weight: <weight>;
-  font-style: normal;
+h1 {
+  font-family: "montserrat", sans-serif;
+  font-size: 3.5em;
+  color: #A5B4FC
 }
 
-.urbanist-<uniquifier> {
-  font-family: "Urbanist", sans-serif;
-  font-optical-sizing: auto;
-  font-weight: <weight>;
-  font-style: normal;
+
+p {
+  font-family: "manrope", sans-serif;
+  font-size: 1.1em;
+}
+.list {
+  font-size: 1em;
+  font-family: "manrope", sans-serif;
 }
