@@ -4,8 +4,9 @@ a {
   text-decoration: none;
   font-family: "manrope", sans-serif;
 }
-.color {
-  color: #A5B4FC;
+em {
+  color: #a5b4fc;
+  font-style: normal;
 }
 
 h1 {
