@@ -38,3 +38,13 @@ p {
 body
 {background-color: #1F2039;
 }
+.cta {
+  background: linear-gradient(#8e86b5, #acaeed);
+  color: white;
+  border-radius: 50px;
+}
+.brder
+{ border-right: 1px solid #8e86b5;
+  border: 1px solid #8e86b5 ;
+
+}
