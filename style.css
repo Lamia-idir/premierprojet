@@ -1,5 +1,5 @@
 a {
-  color: black; /* change la couleur du lien */
+  color: #242424; /* change la couleur du lien */
   font-size: 1em;
   text-decoration: none;
   font-family: "manrope", sans-serif;
@@ -14,13 +14,27 @@ h1 {
   font-size: 3.5em;
   color: #A5B4FC
 }
+h2
+{ color: #F9F8FF;
+
+}
 
 
 p {
   font-family: "manrope", sans-serif;
   font-size: 1.1em;
+  color:#F9F8FF;
 }
 .list {
   font-size: 1em;
   font-family: "manrope", sans-serif;
+  color: #F9F8FF;
+
+}
+.entete, .piedpage
+{background-color: white;
+
+}
+body
+{background-color: #1F2039;
 }
