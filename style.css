@@ -32,10 +32,7 @@ p {
   margin-top: 40px;
 
 }
-.entete, .piedpage
-{background-color: white;
 
-}
 body
 {background-color: #1F2039;
 }
@@ -64,18 +61,14 @@ a:hover
 {opacity: 0.5;
 
 }
-.dim-header
+header,footer
 { padding: 20px 50px 20px 0px ;
-  width: 100%;
-
+   background-color: white;
+  padding: 20px 50px;
 
 }
-.dim-footer
-{ padding: 20px 50px 20px 0px ;
-  width: 100%;
 
 
-}
 .dim-section
 { padding: 80px ;
   
@@ -93,4 +86,36 @@ section {
   width: 50%;
   margin: auto;
 }
+nav, footer
+{ display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
 
+}
+.disp
+{display: flex;
+  flex-direction: row-reverse;
+  justify-content: space-between;
+  justify-items: center;
+
+}
+.accueil-photos
+{
+  background-color: white;
+  padding: 20px;
+}
+
+.accueil-photos div
+{ display: flex;
+  flex-direction:ROW;
+  justify-content: space-between;
+  justify-items: center;
+   margin-bottom: 15px;
+    gap: 15px;
+}
+.accueil-photos h2 
+{
+  color: #242424;
+  text-align: center;
+}
