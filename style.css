@@ -85,4 +85,12 @@ a:hover
 { margin: auto;
 
 }
+section {
+  padding: 80px;
+}
+
+.center {
+  width: 50%;
+  margin: auto;
+}
 
