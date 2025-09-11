@@ -92,6 +92,15 @@ nav, footer
   justify-content: space-between;
   align-items: center;
 
+
+}
+nav a 
+{padding: 20px;
+
+}
+h1
+{ margin-left: 100px;
+
 }
 
 
