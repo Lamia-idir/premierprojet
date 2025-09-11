@@ -29,6 +29,7 @@ p {
   font-size: 1em;
   font-family: "manrope", sans-serif;
   color: #F9F8FF;
+  margin-top: 40px;
 
 }
 .entete, .piedpage
@@ -47,6 +48,7 @@ body
 .brder
 { border-right: 1px solid #8e86b5;
   border: 1px solid #8e86b5 ;
+  padding: 50px ;
 
 }
 a:hover
@@ -62,3 +64,20 @@ a:hover
 {opacity: 0.5;
 
 }
+.dim-header
+{ padding: 20px 50px 20px 50px ;
+
+}
+.dim-footer
+{ padding: 20px 50px 20px 50px ;
+
+}
+.dim-section
+{ padding: 80px ;
+
+}
+.center
+{ margin: auto;
+
+}
+
