@@ -65,15 +65,18 @@ a:hover
 
 }
 .dim-header
-{ padding: 20px 50px 20px 50px ;
+{ padding: 20px 50px 20px 0px ;
+  width: 100%;
 
 }
 .dim-footer
-{ padding: 20px 50px 20px 50px ;
+{ padding: 20px 50px 20px 0px ;
+  width: 100%;
 
 }
 .dim-section
 { padding: 80px ;
+  
 
 }
 .center
