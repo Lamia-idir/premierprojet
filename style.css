@@ -55,6 +55,7 @@ a:hover
 .cta:hover
 {background: linear-gradient(#696484,#8788BA);
   text-decoration: none;
+  display: inline-block;
 
 }
 .lien-icone:hover
