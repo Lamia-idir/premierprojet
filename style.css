@@ -223,7 +223,12 @@ input[type="submit"] {
   height: 50px;     /* hauteur */
   font-size: 18px;  /* taille du texte */
 
+
 }
 
+label {
+  margin-bottom: 10px;
+  margin-left: 20px;
+}
 
 
