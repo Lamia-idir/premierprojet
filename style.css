@@ -155,3 +155,78 @@ h1
   width: 100%;
   height: 100%;
 }
+.lien-conteneur-photo
+ {
+  position: relative;
+  }
+  .photo-hover {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  
+  align-items: center;
+  justify-content: center;
+  font-size: 1.5em;
+  color: white;
+  background-color: rgba(0, 0, 0, 0.7);
+  display: none;
+  }
+  .lien-conteneur-photo:hover .photo-hover
+   {
+  display: flex;
+  }
+  td
+  {border: 1px, solid white;
+
+
+  }
+  table
+  {
+    border-collapse: collapse;
+    width: 100%;
+    border: auto;
+    
+  }
+  td,th, caption
+  { color: white;
+    padding: 40px;
+    
+
+  }
+.table-a 
+{ margin-top: 0px;
+
+}
+input, textarea
+{ padding: 10px;
+  margin: 20px;
+  width: 50%;
+
+}
+form p
+{display: flex;
+  flex-direction: column;
+  justify-content: center;
+  justify-items: center;
+
+
+
+}
+form h2
+{ text-align: center;
+
+}
+input[type="submit"] {
+  width: 200px;     /* largeur */
+  height: 50px;     /* hauteur */
+  font-size: 18px;  /* taille du texte */
+ 
+}
+
+form {
+
+  margin: 0 auto;    /* centre à gauche/droite */
+}
+
